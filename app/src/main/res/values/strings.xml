@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoinConverter</string>
+    <string name="A">data/price</string>
+</resources>
